@@ -67,5 +67,3 @@ npm run build
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-Replace `https://github.com/gustavowebjs/design-system.git` with the actual URL of your repository. This simplified README covers the essential instructions for installation, usage, development, and building.
